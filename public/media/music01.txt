@@ -1,0 +1,6 @@
+[name]=Paris Romp
+[order]=1
+# This is a test comment..
+[category]=General
+[length]=7777
+Paris plays some wild sounds to make you get up and kill it.

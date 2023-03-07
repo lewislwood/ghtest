@@ -1,0 +1,71 @@
+{
+  "application": {
+    "name": "Audio-Catalog",
+    "created": "2022-12-28T18:59:43.673Z",
+    "developer": "Lewis Wood",
+    "website": "http://blindheroes.org"
+  },
+  "allow_category_filter": true,
+  "overview": "<p>This is a podcast of great ideas and things you would love to use.</p>",
+  "help": "Select media file to play. Next to each play button is the download button.",
+  "mediaList": [
+    {
+      "file": "music00.mp3",
+      "name": "Lewis Serenade",
+      "length": "2:31",
+      "type": "mp3",
+      "size": 4171776,
+      "Modified": "2010-06-29T04:44:47.185Z",
+      "order": 99,
+      "category": "General, Rock",
+      "description": "<p>Here I tell it as it is. Singing my hear out.</p><p>Please give to my foundation you crazy people!!!</p>"
+    },
+    {
+      "file": "music01.mp3",
+      "name": "Paris Romp",
+      "length": "7777",
+      "type": "mp3",
+      "size": 4943872,
+      "Modified": "2010-06-29T04:44:29.664Z",
+      "order": 1,
+      "category": "General",
+      "description": "<p>Paris plays some wild sounds to make you get up and kill it.</p>"
+    },
+    {
+      "file": "music02.mp3",
+      "name": "Peggy  Danny Praise",
+      "length": "5:41",
+      "type": "mp3",
+      "size": 4552704,
+      "Modified": "2010-06-29T04:44:35.515Z",
+      "order": 2,
+      "category": "General",
+      "description": "<p>Peggy plays and talks about her favorite singer.  Danny O'Donnell.</p>"
+    },
+    {
+      "file": "music03.mp3",
+      "name": "Samantha Howl",
+      "length": "1:11",
+      "type": "mp3",
+      "size": 4763648,
+      "Modified": "2010-06-29T04:44:42.028Z",
+      "order": 3,
+      "category": "General",
+      "description": "<p>Samantha Howls out the words to Lassie..</p>"
+    },
+    {
+      "file": "music04.mp3",
+      "name": "Lewis Screams",
+      "length": "5:11",
+      "type": "mp3",
+      "size": 4659200,
+      "Modified": "2010-06-29T04:44:38.745Z",
+      "order": 4,
+      "category": "General",
+      "description": "<p>Listen to the exciting screams of the great Lewis Wood.</p>"
+    }
+  ],
+  "doc_title": "Browser Media Title",
+  "cat_title": "Catalog Media Title",
+  "post_description": "<p>Check out my repository...</p>"
+}

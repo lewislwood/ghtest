@@ -1,0 +1,19 @@
+# catalog.overview
+
+[logo]=logo.png
+[doc_title]=Browser Media Title
+[cat_title]=Catalog Media Title
+# Allows users to select categories
+[allow_category_filter]=true
+# if you only wnat certain categories to be visible
+[category_filter]=
+# Menu Link to point to typically a table of catalogs
+[menu_link]=
+[menu_text]=
+# Instructional text prior to media files
+[help]=Select media file to play. Next to each play button is the download button.
+#  Any text below will be placed in a summary paragrapgh(s) prior to media cards.
+#  html <p> .... </p> will be addded for each paragraph. Paragraphs are new lines.
+# You can use html if you are comfortable doing so. ie <strong>, <emp> bold, italic etc.. Even links...
+This is a podcast of great ideas and things you would love to use.
+
