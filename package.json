@@ -1,0 +1,23 @@
+{
+  "name": "ghtest",
+  "version": "1.0.0",
+  "description": "gh-pages test",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npm run gh-pages -d public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewislwood/ghtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewislwood/ghtest/issues"
+  },
+  "homepage": "https://github.com/lewislwood/ghtest#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
